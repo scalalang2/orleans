@@ -121,6 +121,7 @@ internal static class InstrumentNames
     public const string STORAGE_READ_LATENCY = "orleans-storage-read-latency";
     public const string STORAGE_WRITE_LATENCY = "orleans-storage-write-latency";
     public const string STORAGE_CLEAR_LATENCY = "orleans-storage-clear-latency";
+    public const string STORAGE_STATE_SIZE = "orleans-storage-state-size";
 
     // Streams
     public const string STREAMS_PUBSUB_PRODUCERS_ADDED = "orleans-streams-pubsub-producers-added";
